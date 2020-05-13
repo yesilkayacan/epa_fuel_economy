@@ -7,7 +7,6 @@ matplotlib<br>
 seaborn<br>
 numpy<br>
 scipy<br>
-statsmodels<br>
 
 <b>Questions investigated:</b><br>
 Q1: How did the engine evolve?<br>
