@@ -25,7 +25,7 @@ database.csv : EPA vehicle data from 1984 until 2017<br>
 The code and the database.csv needs to be in the same folder. The code in Data_analysis.ipynb can be ran directly without any modification.
 
 <h2>5. Licensing, Authors, Acknowledgements, etc.</h2><br>
-Author: Can Yesilkaya
+Author: Can Yesilkaya<br>
 EPA vehicle data source: <a>https://www.kaggle.com/epa/fuel-economy</a> <br>
 Green car image used in the blog: <a>http://twinenvironment.blogspot.com/2010/04/green-driving-save-gasoline.html</a>
 
