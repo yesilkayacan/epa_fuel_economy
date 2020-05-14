@@ -14,7 +14,7 @@ Investigation of data from EPA for gasoline vehicles in the US from 1984 until 2
 - Is Turbocharging Good for C02 Emissions?<br>
 - What Is The Effect Of Transmission Type on C02 Emissions?<br>
 
-The indings posted on the blog page: <a>https://medium.com/@yesilkayacan/how-a-cars-diet-changed-d0d21e4f428</a> <br>
+The findings posted on the blog page: <a>https://medium.com/@yesilkayacan/how-a-cars-diet-changed-d0d21e4f428</a> <br>
 
 <h2>3. File Descriptions</h2><br>
 Data_analysis.ipynb : Code and analysis file<br>
@@ -25,6 +25,7 @@ database.csv : EPA vehicle data from 1984 until 2017<br>
 The code and the database.csv needs to be in the same folder. The code in Data_analysis.ipynb can be ran directly without any modification.
 
 <h2>5. Licensing, Authors, Acknowledgements, etc.</h2><br>
+Author: Can Yesilkaya
 EPA vehicle data source: <a>https://www.kaggle.com/epa/fuel-economy</a> <br>
 Green car image used in the blog: <a>http://twinenvironment.blogspot.com/2010/04/green-driving-save-gasoline.html</a>
 
